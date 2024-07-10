@@ -4,5 +4,6 @@
   main: "\\SE_TBM.exe",
   updater: "\\SE_TBM.exe",
   url: "\\\\ccnsia1a\\separts\\Admin\\Addons\\TBM\\",
-  version: "1.5.0.58"
+  version: 1.5,
+  build: 600,
 }
