@@ -1,9 +1,8 @@
 {
   description: "修正反查界面 BUG",
-  format: ".lzma",
-  main: "\\SE_TBM.exe",
-  updater: "\\SE_TBM.exe",
-  url: "\\\\ccnsia1a\\separts\\Admin\\Addons\\TBM\\",
-  version: 1.5,
-  build: 600,
+  version = {
+      major: 1.5,
+      minor: 5
+      revision: 600
+  }
 }
