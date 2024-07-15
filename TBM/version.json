@@ -2,7 +2,7 @@
   description: "修正反查界面 BUG",
   version = {
       major: 1,
-      minor: 5
+      minor: 5,
       revision: 600
   }
 }
