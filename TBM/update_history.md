@@ -87,4 +87,8 @@ h3{
     font-size: 16px;
     padding-bottom: 1px;
 }
+li{
+    font-size: 14px;
+    line-height: 0.5;
+}
 </style>
