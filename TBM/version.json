@@ -1,8 +1,16 @@
 {
-  description: "修正反查界面 BUG",
-  version = {
-      major: 1,
-      minor: 5,
-      revision: 600
-  }
+    "codePage":1200,
+    "companyName":"Carrier",
+    "copyright":"Copyright (C) Carrier 2020",
+    "fileDescription":"TBM",
+    "internalName":"TBM",
+    "originalFileName":"TBM.exe",
+    "productName":"TBM",
+    "productVersion":{
+        "build":0,
+        "major":1,
+        "minor":5,
+        "releaseType":"",
+        "revision":600,
+    }
 }
